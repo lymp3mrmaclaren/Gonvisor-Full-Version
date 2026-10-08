@@ -246,4 +246,4 @@ This repository serves as the official landing page for GonVisor. The software i
 **Get the most recent version of GonVisor today!**
 
 ---
-**Last updated:** 2026-10-07 20:20:28 UTC
+**Last updated:** 2026-10-08 00:36:15 UTC
